@@ -24,27 +24,27 @@ pip install cryptography
 ## Installation
 Clone this repository:
 
-bash
+```bash
 Salin kode
 git clone https://github.com/joemanurung/Static-Application-Security-Testing-and-Automation.git
 cd StaticApplication
 Navigate to the cryptographic-implementation folder:
-
-bash
+```
+```bash
 Salin kode
 cd cryptographic-implementation
 Usage
 The cryptographic script allows you to encrypt and decrypt text files.
-
+```
 Encrypt a file:
 
-bash
+```bash
 Salin kode
 python encrypt.py --input file.txt --output encrypted.txt --key yourkeyhere
 Decrypt a file:
-
-bash
+```
+```bash
 Salin kode
 python decrypt.py --input encrypted.txt --output decrypted.txt --key yourkeyhere
 Replace file.txt, encrypted.txt, decrypted.txt, and yourkeyhere with your actual file names and encryption key.
-
+```
