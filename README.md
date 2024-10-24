@@ -20,8 +20,8 @@ This section explains how to use the cryptographic script for basic encryption a
 You can install the required library using:
 ```bash
 pip install cryptography
-
-Installation
+```
+## Installation
 Clone this repository:
 
 bash
